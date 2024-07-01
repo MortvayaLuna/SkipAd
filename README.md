@@ -11,7 +11,7 @@ just follow the steps:
 1- U'll need the extension Tampermonkey. U can add by following the url
 https://www.tampermonkey.net/ and follow the steps
 
-2- Open the folder SkipAd.js (u can open using the Notepad) and copy the code
+2- Go to the file SkipAd.js and copy the code
 
 3- Open the extension config and click in "Add new script"
 
